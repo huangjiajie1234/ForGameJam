@@ -1,14 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForGameJam", "Assembly-CSharp.csproj", "{C9D80F55-A52F-EAF1-5BC0-9C70C4344239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForGameJam", "Assembly-CSharp-Editor.csproj", "{E76F5E4E-0657-7EE5-B1A5-A71D34A235BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{C9D80F55-A52F-EAF1-5BC0-9C70C4344239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D80F55-A52F-EAF1-5BC0-9C70C4344239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D80F55-A52F-EAF1-5BC0-9C70C4344239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D80F55-A52F-EAF1-5BC0-9C70C4344239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E76F5E4E-0657-7EE5-B1A5-A71D34A235BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76F5E4E-0657-7EE5-B1A5-A71D34A235BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76F5E4E-0657-7EE5-B1A5-A71D34A235BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76F5E4E-0657-7EE5-B1A5-A71D34A235BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
